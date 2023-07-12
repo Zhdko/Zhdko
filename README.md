@@ -1,1 +1,1 @@
-<img alt='alexandr zhdanko' src='./images/profile.png'/>
+<img alt='alexandr zhdanko' src='./images/profile.svg'/>
