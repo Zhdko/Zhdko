@@ -1,3 +1,5 @@
+<img alt='alexandr zhdanko' src='./images/profile.svg' width='100%'/>
+
 <p align="right">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img height='45' src="./images/icons/telegram.svg" alt="telegram"></a>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img height='45' src="./images/icons/linkedin.svg" alt="linkedin"></a>
