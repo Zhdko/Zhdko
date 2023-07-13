@@ -1,6 +1,7 @@
 <img alt='alexandr zhdanko' src='./images/profile.svg' width='100%'/>
 
 <p align="right">
+<a target="_blank" href="https://zhdko.movies.nomoredomains.rocks/movies"><img height='45' src="./images/icons/portfolio.svg" alt="personal-site"></a>
 <a target="_blank" href="https://t.me/Zhdanko"><img height='45' src="./images/icons/telegram.svg" alt="telegram"></a>
 <a target="_blank" href="https://www.linkedin.com/in/zhdko/"><img height='45' src="./images/icons/linkedin.svg" alt="linkedin"></a>
 </p>
