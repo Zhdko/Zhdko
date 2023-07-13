@@ -1,8 +1,8 @@
 <img alt='alexandr zhdanko' src='./images/profile.svg' width='100%'/>
 
 <p align="right">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img height='45' src="./images/icons/telegram.svg" alt="telegram"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img height='45' src="./images/icons/linkedin.svg" alt="linkedin"></a>
+<a href="https://t.me/Zhdanko"><img height='45' src="./images/icons/telegram.svg" alt="telegram"></a>
+<a target='_blank' href="https://www.linkedin.com/in/zhdko/"><img height='45' src="./images/icons/linkedin.svg" alt="linkedin"></a>
 </p>
 
 ---
@@ -45,11 +45,11 @@
     </br>
   <p align="left">
     <a href="https://github.com/Zhdko/react-mesto-api-full-gha"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=react-mesto-api-full-gha&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="mesto"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=movies-explorer-frontend&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="movies-explorer-frontend"></a>
+    <a href="https://github.com/Zhdko/movies-explorer-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=movies-explorer-frontend&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="movies-explorer-frontend"></a>
     <a href="https://github.com/Zhdko/plan.it"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Zhdko&repo=plan.it&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="plan.it"></a>
     <a href="https://github.com/Zhdko?tab=repositories">
-    <img height='30' src="./images/icons/all-repos.svg" alt="all repos"></a>
   </p>
+  <img height='40' src="./images/icons/all-repos.svg" alt="all repos"></a>
 </details>
 </br>
 
