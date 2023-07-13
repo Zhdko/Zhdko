@@ -1,8 +1,8 @@
 <img alt='alexandr zhdanko' src='./images/profile.svg' width='100%'/>
 
 <p align="right">
-<a href="https://t.me/Zhdanko"><img height='45' src="./images/icons/telegram.svg" alt="telegram"></a>
-<a target='_blank' href="https://www.linkedin.com/in/zhdko/"><img height='45' src="./images/icons/linkedin.svg" alt="linkedin"></a>
+<a target="_blank" href="https://t.me/Zhdanko"><img height='45' src="./images/icons/telegram.svg" alt="telegram"></a>
+<a target="_blank" href="https://www.linkedin.com/in/zhdko/"><img height='45' src="./images/icons/linkedin.svg" alt="linkedin"></a>
 </p>
 
 ---
@@ -24,15 +24,15 @@
 <summary><img src='./images/icons/technology.svg' height='15' alt='technologes'/> Technology stack</summary>
 </br>
 <p align='center'>
-<a href='https://www.w3.org/Style/CSS/'><img src='./images/icons/css3.svg' height='35' alt='css3'/></a>
-<a href='https://html.com/html5/'><img src='./images/icons/html5.svg' height='35' alt='html5'/></a>
-<a href='https://www.javascript.com/'><img src='./images/icons/java-scipt.svg' height='35' alt='java script'/></a>
-<a href='https://reactjs.org/'><img src='./images/icons/react.svg' height='35' alt='react'/></a>
-<a href='https://nodejs.org/en'><img src='./images/icons/node.svg' height='35' alt='node.js'/></a>
-<a href='https://nginx.org/'><img src='./images/icons/nginx.svg' height='35' alt='nginx'/></a>
-<a href='https://expressjs.com'><img src='./images/icons/express.svg' height='35' alt='express'/></a>
-<a href='https://www.mongodb.com/'><img src='./images/icons/mongoDB.svg' height='35' alt='mongo DB'/></a>
-<a href='https://git-scm.com/'><img src='./images/icons/git-hub.svg' height='35' alt='git'/></a>
+<a target="_blank" href='https://www.w3.org/Style/CSS/'><img src='./images/icons/css3.svg' height='35' alt='css3'/></a>
+<a target="_blank" href='https://html.com/html5/'><img src='./images/icons/html5.svg' height='35' alt='html5'/></a>
+<a target="_blank" href='https://www.javascript.com/'><img src='./images/icons/java-scipt.svg' height='35' alt='java script'/></a>
+<a target="_blank" href='https://reactjs.org/'><img src='./images/icons/react.svg' height='35' alt='react'/></a>
+<a target="_blank" href='https://nodejs.org/en'><img src='./images/icons/node.svg' height='35' alt='node.js'/></a>
+<a target="_blank" href='https://nginx.org/'><img src='./images/icons/nginx.svg' height='35' alt='nginx'/></a>
+<a target="_blank" href='https://expressjs.com'><img src='./images/icons/express.svg' height='35' alt='express'/></a>
+<a target="_blank" href='https://www.mongodb.com/'><img src='./images/icons/mongoDB.svg' height='35' alt='mongo DB'/></a>
+<a target="_blank" href='https://git-scm.com/'><img src='./images/icons/git-hub.svg' height='35' alt='git'/></a>
 </p>
 </details>
 
