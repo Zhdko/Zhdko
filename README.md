@@ -50,7 +50,7 @@
     <a href="https://github.com/Zhdko/plan.it"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Zhdko&repo=plan.it&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="plan.it"></a>
     <a href="https://github.com/Zhdko?tab=repositories">
   </p>
-  <img height='40' src="./images/icons/all-repos.svg" alt="all repos"></a>
+  <a href="https://github.com/Zhdko?tab=repositories"><img height='40' src="./images/icons/all-repos.svg" alt="all repos"></a>
 </details>
 </br>
 
