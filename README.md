@@ -45,9 +45,9 @@
 <summary><img alt='react' src='./images/icons/react-logo.svg' height='15'/> React projects</summary>
     </br>
   <p align="left">
-    <a href="https://github.com/Zhdko/react-mesto-api-full-gha"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=react-mesto-api-full-gha&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mesto"></a>
-    <a href="https://github.com/Zhdko/movies-explorer-full"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=movies-explorer-full&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="movies-explorer-frontend"></a>
-    <a href="https://github.com/Zhdko/plan.it"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Zhdko&repo=plan.it&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="plan.it"></a>
+      <a href="https://github.com/Zhdko/movies-explorer-full"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=movies-explorer-full&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="movies-explorer-frontend"></a>
+      <a href="https://github.com/Zhdko/chatGPT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Zhdko&repo=chatGPT&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="plan.it"></a>
+    <a href="https://github.com/Zhdko/react-mesto-api-full-gha"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zhdko&repo=react-mesto-api-full-gha&theme=react&bg_color=1E1F23&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mesto"></a> 
     <a href="https://github.com/Zhdko?tab=repositories">
   </p>
   <a href="https://github.com/Zhdko?tab=repositories"><img height='40' src="./images/icons/all-repos.svg" alt="all repos"></a>
